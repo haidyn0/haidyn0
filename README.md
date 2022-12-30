@@ -1,4 +1,4 @@
-hi im haidyn
+hi im haidyn  
 im studying computer science at UQ  
 contact:  
 - haidyn.small@outlook.com  
